@@ -9,7 +9,7 @@ The goal of the UI design is to keep interactions simple while allowing complex 
 
 ## UI Flow Overview
 
-![UI Flow Diagram](../../assets/uiflow.png)
+![UI Flow Diagram](../assets/uiflow.png)
 
 The interface acts as a control layer that creates jobs, manages friends, and displays system status.  
 All heavy processing happens outside the browser.
