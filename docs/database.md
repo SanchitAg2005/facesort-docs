@@ -9,7 +9,7 @@ Sensitive biometric data is not stored directly in the database. Instead, the sy
 
 ---
 ##DataBase Overview
-![DataBase OverviewDiagram](../assets/database.png)
+![DataBase OverviewDiagram](../assets/database.drawio.png)
 ## Design Goals
 
 - Maintain clear separation between metadata and large files
