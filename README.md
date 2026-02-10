@@ -10,7 +10,7 @@ This repository documents the **architecture, workflows, and design decisions** 
 Core algorithms and proprietary implementations are intentionally excluded.
 
 ---
-![UI Diagram](../assets/image.png)
+![UI Diagram](assets/image.png)
 ---
 
 ## Project Motivation
