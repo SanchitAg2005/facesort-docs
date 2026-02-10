@@ -8,7 +8,8 @@ The database is designed to track asynchronous workflows, maintain clear ownersh
 Sensitive biometric data is not stored directly in the database. Instead, the system stores references to files located in secure object storage.
 
 ---
-
+##DataBase Overview
+![DataBase OverviewDiagram](../assets/database.png)
 ## Design Goals
 
 - Maintain clear separation between metadata and large files
