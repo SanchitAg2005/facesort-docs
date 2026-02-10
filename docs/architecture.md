@@ -7,7 +7,9 @@ This document explains the high-level architecture of FaceSort and how its compo
 The system follows a **hybrid cloud–local architecture**, where orchestration happens in the cloud while computationally heavy face-recognition tasks run on a controlled local worker.
 
 ---
-
+## Architecture view
+![Architecture view](../assets/architecture.png)
+---
 ## Architectural Goals
 
 The architecture was designed around several core goals:
